@@ -32,7 +32,7 @@ footer {
  flex-direction: column;
 }
 .item {
-  width: 100px;
-  /*height: 100px;*/
+  /*width: 100px;*/
+  height: 100px;
   background-color: #FCF2EC;
 }
